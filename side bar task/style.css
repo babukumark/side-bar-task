@@ -1,0 +1,57 @@
+ body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(229, 229, 231);
+
+ }
+ .menu img{
+    position: absolute;
+    left: 1200px;
+    width: 70px;
+    height: 50px;
+ }
+ .content{
+    width: 300px;
+    height: 100vh;
+    background-color: #fff;
+    display: none;
+    
+    
+
+ }
+ .nav-links{
+    list-style: none;
+
+ }
+ a{
+    text-decoration: none;
+ }
+ .logoICON{
+    position: relative;
+    top: 300px;
+    left: 50px;
+    gap: 20px;
+ }
+ .logo{
+    display: flex;
+ }
+
+ /* ------------------------------------------------ */
+
+ .next-page{
+    background-color: black;
+
+}
+.containerbox{
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    position: relative;
+    top: 200px;
+   left: 450px;
+   text-align: center;
+  
+
+}
